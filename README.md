@@ -1,29 +1,16 @@
 # Horiseon - Code Refactor Challenge:
 
-## Screenshot of the deployed page:
+## Description
+Code refactor for Horiseon to ensure that it follows accessibility standards such as:
+* HTML semantic elements are used where applicable
+* HTML elements follow logical structure
+* HTML images have been assigned appropriate "alt" attributes
+* Heading attributes fall in sequential order
+* Website title is concise and descriptive
+
+
+## Screenshot of the deployed website
+![Screenshot of deployed website](/assets/images/Screenshot-Horiseon.png)
 
 ## URL of the deployed website:
-https://nileshnambiar.github.io/challenge-01-horiseon/
-
-## User Story
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-
-## Acceptance Criteria
-GIVEN a webpage meets accessibility standards
-
-WHEN I view the source code
-THEN I find semantic HTML elements
-
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-
-WHEN I view the image elements
-THEN I find accessible alt attributes
-
-WHEN I view the heading attributes
-THEN they fall in sequential order
-
-WHEN I view the title element
-THEN I find a concise, descriptive title
+[Horiseon Social Solution Services Inc | Digital Marketing Made Easy](https://nileshnambiar.github.io/challenge-01-horiseon/)
