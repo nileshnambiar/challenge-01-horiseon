@@ -1,4 +1,9 @@
-# Code Refactor Starter Code
+# Horiseon - Code Refactor Challenge:
+
+## Screenshot of the deployed page:
+
+## URL of the deployed website:
+https://nileshnambiar.github.io/challenge-01-horiseon/
 
 ## User Story
 AS A marketing agency
